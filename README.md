@@ -845,7 +845,7 @@
     const password = document.getElementById('password').value;
     
     // Simple validation - in a real app, this would connect to a backend
-    if (email === 'diyora@example.com' && password === 'password123') {
+    if (email === 'diyoramuslimova7@.com' && password === 'password123') {
       localStorage.setItem('isLoggedIn', 'true');
       showMainContent();
     } else {
